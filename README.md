@@ -43,7 +43,7 @@ A retro Windows 95-style defragmenter visualization that displays the progress o
 
 ### Step 4: Download the Script
 
-1. Download the `sfc_defrag_visualizer.py` file
+1. Download the `sfc_defrag_nostalgia.py` file
 2. Save it to a location you can easily access (e.g., `C:\Users\YourName\Desktop\`)
 
 ## Running the Application
@@ -66,7 +66,7 @@ A retro Windows 95-style defragmenter visualization that displays the progress o
 
 1. Type the following command and press Enter:
    ```
-   python sfc_defrag_visualizer.py
+   python sfc_defrag_nostalgia.py
    ```
 2. The application window will open and the SFC scan will begin automatically
 
