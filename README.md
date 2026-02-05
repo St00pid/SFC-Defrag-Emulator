@@ -1,6 +1,6 @@
-# SFC-Defrag-Emulator
-Python SFC Scannow Defrag95 like emulation for nostalgia
-![retro-defrag](https://github.com/user-attachments/assets/99167ad3-17de-4a8d-a6db-9d5a224616d9)
+# SFC Defrag Visualizer
+
+![retro-defrag](https://github.com/user-attachments/assets/13386520-3c0f-4a5f-b26d-984ad629f98a)
 
 
 # SFC Defrag Visualizer - Installation Guide
